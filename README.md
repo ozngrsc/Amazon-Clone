@@ -3,10 +3,10 @@
 In this project, you can create an account and login. Then you can add products to your cart and pay. If you wish, you can remove products from the cart. After making the payment, you can view your order information in the Orders section.
 
 You can use the following information to make a payment:
-Credit Card Number: 4242 4242 4242 4242
-CVV: 242
-Valid Date: 0424
-ZIP Code: 42424
+- Credit Card Number: 4242 4242 4242 4242
+- CVV: 242
+- Valid Date: 0424
+- ZIP Code: 42424
 
 Click demo to try it by yourself!
 
